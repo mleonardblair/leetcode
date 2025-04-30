@@ -1,5 +1,5 @@
 
-# leetcode Monorepo 🚀
+# leetcode monorepo 🚀
 
 Welcome to my **LeetCode monorepo**! This repository contains my solutions to various LeetCode problems, organized by topic and category. The repo uses **Git submodules** to organize problems within their respective categories.
 
